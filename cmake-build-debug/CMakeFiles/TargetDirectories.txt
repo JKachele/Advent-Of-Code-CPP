@@ -1,0 +1,3 @@
+/home/jkachele/c++Projects/Advent-Of-Code/cmake-build-debug/CMakeFiles/Advent_Of_Code.dir
+/home/jkachele/c++Projects/Advent-Of-Code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jkachele/c++Projects/Advent-Of-Code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
