@@ -1,0 +1,1 @@
+/usr/bin/c++ -g "CMakeFiles/Advent-Of-Code-CPP.dir/2022/Day4/Day4a.cpp.o" -o Advent-Of-Code-CPP 

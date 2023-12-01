@@ -1,0 +1,1 @@
+{"cmake":{"cmd":"cmake","build_dir":"{cwd}\/build\/{os}-{build_type}","dap_name":"lldb","args":{"configure":["-D","CMAKE_EXPORT_COMPILE_COMMANDS=1","-G","Ninja"]},"build_type":"Debug","target":"Advent-Of-Code-CPP"},"cargo":{"dap_name":"lldb"}}

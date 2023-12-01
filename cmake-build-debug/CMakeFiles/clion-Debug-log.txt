@@ -1,4 +1,4 @@
-/snap/clion/218/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/218/bin/ninja/linux/ninja -G Ninja -S /home/jkachele/c++Projects/Advent-Of-Code -B /home/jkachele/c++Projects/Advent-Of-Code/cmake-build-debug
+/snap/clion/219/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /home/jkachele/C++Projects/Advent-Of-Code-CPP -B /home/jkachele/C++Projects/Advent-Of-Code-CPP/cmake-build-debug
 -- The C compiler identification is GNU 11.3.0
 -- The CXX compiler identification is GNU 11.3.0
 -- Detecting C compiler ABI info
@@ -13,4 +13,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/jkachele/c++Projects/Advent-Of-Code/cmake-build-debug
+-- Build files have been written to: /home/jkachele/C++Projects/Advent-Of-Code-CPP/cmake-build-debug

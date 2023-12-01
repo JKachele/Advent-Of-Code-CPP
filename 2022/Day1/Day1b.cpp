@@ -83,7 +83,7 @@ int main() {
 }
 
 string getInput() {
-    std::ifstream inputFileStream{"2022/Day1/input.txt"};
+    std::ifstream inputFileStream{"../2022/Day1/input.txt"};
     if(!inputFileStream) {
         cerr << "File Not Found!" << endl;
         return "";

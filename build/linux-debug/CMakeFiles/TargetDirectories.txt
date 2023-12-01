@@ -1,0 +1,4 @@
+/home/jkachele/Programing/C++Projects/Advent-Of-Code-CPP/build/linux-debug/CMakeFiles/Advent-Of-Code-CPP.dir
+/home/jkachele/Programing/C++Projects/Advent-Of-Code-CPP/build/linux-debug/CMakeFiles/Test.dir
+/home/jkachele/Programing/C++Projects/Advent-Of-Code-CPP/build/linux-debug/CMakeFiles/edit_cache.dir
+/home/jkachele/Programing/C++Projects/Advent-Of-Code-CPP/build/linux-debug/CMakeFiles/rebuild_cache.dir

@@ -1,9 +1,10 @@
-/*Project-------Advent_Of_Code
+/*************************************************
+ *Project-------Advent_Of_Code
  *File----------Day1a.cpp
  *Author--------Justin Kachele
  *Date----------12/1/22
  *License-------Mozilla Public License Version 2.0
- ******************************************/
+ ************************************************/
 #include <iostream>
 #include <fstream>
 using std::cout;
@@ -56,7 +57,7 @@ int main() {
 }
 
 string getInput() {
-    std::ifstream inputFileStream{"2022/Day1/input.txt"};
+    std::ifstream inputFileStream{"input.txt"};
     if(!inputFileStream) {
         cerr << "File Not Found!" << endl;
         return "";
