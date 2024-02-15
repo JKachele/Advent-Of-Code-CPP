@@ -2,7 +2,7 @@
  *File----------Main.cpp
  *Author--------Justin Kachele
  *Date----------12/8/22
- *License-------Mozilla Public License Version 2.0
+ *License-------GNU General Public License v3.0
  ******************************************/
 #include <iostream>
 

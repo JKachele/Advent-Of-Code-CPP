@@ -2,7 +2,7 @@
  *File----------Day2a.cpp
  *Author--------Justin Kachele
  *Date----------12/1/22
- *License-------Mozilla Public License Version 2.0
+ *License-------GNU General Public License v3.0
  ******************************************/
 #include <iostream>
 #include <fstream>

@@ -1,0 +1,15 @@
+{
+	"Header" :{
+		"prefix": ["head", "advent"],
+		"body": [
+				"/*************************************************",
+				"*Project-------Advent_Of_Code",
+				"*File----------$TM_FILENAME_BASE",
+				"*Author--------Justin Kachele",
+				"*Created-------$CURRENT_DAY_NAME $CURRENT_MONTH_NAME_SHORT $CURRENT_DATE, $CURRENT_YEAR",
+				"*License-------GNU General Public License v3.0",
+				"************************************************/",
+				"$0"
+			],
+	}
+}

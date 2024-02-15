@@ -3,7 +3,7 @@
  *File----------Day1a.cpp
  *Author--------Justin Kachele
  *Date----------12/1/22
- *License-------Mozilla Public License Version 2.0
+ *License-------GNU General Public License v3.0
  ************************************************/
 #include <iostream>
 #include <fstream>
@@ -57,7 +57,7 @@ int main() {
 }
 
 string getInput() {
-    std::ifstream inputFileStream{"input.txt"};
+    std::ifstream inputFileStream{"C:\\Users\\e454984\\Documents\\Programming\\C_C++\\Advent-Of-Code-CPP\\2022\\Day1\\input.txt"};
     if(!inputFileStream) {
         cerr << "File Not Found!" << endl;
         return "";

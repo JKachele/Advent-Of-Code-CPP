@@ -2,7 +2,7 @@
  *File----------Day4bNoHash.cpp
  *Author--------Justin Kachele
  *Date----------1/2/23
- *License-------Mozilla Public License Version 2.0
+ *License-------GNU General Public License v3.0
  ******************************************/
 #include <iostream>
 #include <fstream>
