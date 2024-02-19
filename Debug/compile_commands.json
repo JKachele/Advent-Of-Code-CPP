@@ -1,9 +1,9 @@
 [
 {
   "directory": "/home/jkachele/Programing/C++Projects/Advent-Of-Code-CPP/build/linux-debug",
-  "command": "/usr/bin/c++ -g -std=gnu++23 -o CMakeFiles/Advent-Of-Code-CPP.dir/2022/Day1/Day1a.cpp.o -c /home/jkachele/Programing/C++Projects/Advent-Of-Code-CPP/2022/Day1/Day1a.cpp",
-  "file": "/home/jkachele/Programing/C++Projects/Advent-Of-Code-CPP/2022/Day1/Day1a.cpp",
-  "output": "CMakeFiles/Advent-Of-Code-CPP.dir/2022/Day1/Day1a.cpp.o"
+  "command": "/usr/bin/c++ -g -std=gnu++23 -o CMakeFiles/Advent-Of-Code-CPP.dir/2023/Day1/Day1a.cpp.o -c /home/jkachele/Programing/C++Projects/Advent-Of-Code-CPP/2023/Day1/Day1a.cpp",
+  "file": "/home/jkachele/Programing/C++Projects/Advent-Of-Code-CPP/2023/Day1/Day1a.cpp",
+  "output": "CMakeFiles/Advent-Of-Code-CPP.dir/2023/Day1/Day1a.cpp.o"
 },
 {
   "directory": "/home/jkachele/Programing/C++Projects/Advent-Of-Code-CPP/build/linux-debug",

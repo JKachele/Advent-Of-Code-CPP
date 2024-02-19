@@ -27,7 +27,10 @@ int main() {
 }
 
 string getInput() {
-    std::ifstream inputFileStream{"C:\\Users\\e454984\\Documents\\Programming\\C_C++\\Advent-Of-Code-CPP\\2023\\Day1\\input.txt"};
+    // std::ifstream inputFileStream{
+    //     "C:\\Users\\e454984\\Documents\\Programming\\C_C++\\Advent-Of-Code-CPP\\2023\\Day1\\input.txt"
+    // };
+    std::ifstream inputFileStream{"2023/Day1/input.txt"};
     if(!inputFileStream) {
         cerr << "File Not Found!" << endl;
         return "";
